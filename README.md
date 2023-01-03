@@ -1,2 +1,3 @@
 # wordpress-functional-plugin-template
-WordPress Functional Plugin Template
+
+This is a default template for a WordPress functional plugin that includes jquery and css.
